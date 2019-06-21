@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<initParams>
+  <maxQuantityIterations>50</maxQuantityIterations>
+  <maxLenghtArray>100</maxLenghtArray>
+  <maxLenghtOperations>1000</maxLenghtOperations>
+  <characterSplitDocument xml:space="preserve">\r\n</characterSplitDocument>
+  <characterSplitLine xml:space="preserve"> </characterSplitLine>
+  <characterGetSentence>QUERY</characterGetSentence>
+  <characterPutSentence>UPDATE</characterPutSentence>
+</initParams>

@@ -1,0 +1,16 @@
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\InitConfig.xml
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\Infraestructure.dll
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\Infraestructure.pdb
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\Castle.Core.dll
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\Castle.Windsor.dll
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\log4net.dll
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\Castle.Core.xml
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\Castle.Windsor.xml
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\log4net.xml
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\obj\Debug\Infraestructure.Properties.Resources.resources
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\obj\Debug\Infraestructure.csproj.GenerateResource.Cache
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\obj\Debug\Infraestructure.dll
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\obj\Debug\Infraestructure.pdb
+C:\Users\Cami\Documents\Visual Studio 2015\Projects\prjXpertGroup001\Infraestructure\obj\Debug\Infraestructure.csprojResolveAssemblyReference.cache
